@@ -121,10 +121,10 @@ A["Header declared unit voxel objects corresponding to different values in tree 
    | ------ | -------- |
    | F      | Forward  |
    | B      | Backward |
-   | L      | left     |
-   | R      | right    |
-   | A      | above    |
-   | U      | under    |
+   | L      | Left     |
+   | R      | Right    |
+   | A      | Above    |
+   | U      | Under    |
 
    ① **Growth condition one**
 
