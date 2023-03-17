@@ -128,7 +128,7 @@ A["Header declared unit voxel objects corresponding to different values in tree 
 
    ① **Growth condition one**
 
-   ![tree_growth_model_timing diagram_1](assets\tree_growth_model_timing diagram_1.png)
+   ![tree_growth_model_timing diagram_1](assets\tree_growth_model_timing_diagram_1.png)
 
    ```
    {
@@ -145,7 +145,7 @@ A["Header declared unit voxel objects corresponding to different values in tree 
 
    ②**Growth condition two**
 
-   ![tree_growth_model_timing diagram_2](assets\tree_growth_model_timing diagram_2.png)
+   ![tree_growth_model_timing diagram_2](assets\tree_growth_model_timing_diagram_2.png)
 
    ```
    {

@@ -127,7 +127,7 @@ A["头部声明树脉中不同数值对应的单位体素对象"] --> B["设立�
 
    ① **生长情况一**
 
-   ![tree_growth_model_timing diagram_1](assets\tree_growth_model_timing diagram_1.png)
+   ![tree_growth_model_timing diagram_1](assets\tree_growth_model_timing_diagram_1.png)
 
    ```
    {
@@ -144,7 +144,7 @@ A["头部声明树脉中不同数值对应的单位体素对象"] --> B["设立�
 
    ②**生长情况二**
 
-   ![tree_growth_model_timing diagram_2](assets\tree_growth_model_timing diagram_2.png)
+   ![tree_growth_model_timing diagram_2](assets\tree_growth_model_timing_diagram_2.png)
 
    ```
    {
